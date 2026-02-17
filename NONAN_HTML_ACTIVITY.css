@@ -1,0 +1,16 @@
+body{
+background: #810606;
+background: -moz-radial-gradient(center, #810606 0%, #AD0000 44%, #FF0000 100%);
+background: -webkit-radial-gradient(center, #810606 0%, #AD0000 44%, #FF0000 100%);
+background: radial-gradient(ellipse at center, #810606 0%, #AD0000 44%, #FF0000 100%);
+}
+
+h1,h2,h3,h4{
+    color: #FFF;
+background-color: #333;
+text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+}
+
+p{
+color: #FFF;
+}
